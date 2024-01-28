@@ -9,6 +9,7 @@ python -m torch.distributed.launch --nproc_per_node 4 --master_port 12345  main.
 
 ## 2. Citation
 
+```
 @article{liu2024multi,
   title={Multi-granularity sequence generation for hierarchical image classification},
   author={Liu, Xinda and Wang, Lili},
@@ -19,3 +20,4 @@ python -m torch.distributed.launch --nproc_per_node 4 --master_port 12345  main.
   year={2024},
   publisher={Springer}
 }
+``` 
