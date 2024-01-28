@@ -1,5 +1,5 @@
 # Multi-Granularity Sequence Generation for Hierarchical Image Classification
-Official PyTorch implementation of Multi-Granularity Sequence Generation for Hierarchical Image Classification
+Official PyTorch implementation of [Multi-Granularity Sequence Generation for Hierarchical Image Classification](https://link.springer.com/article/10.1007/s41095-022-0332-2)
 
 ## 1. Train 
 
